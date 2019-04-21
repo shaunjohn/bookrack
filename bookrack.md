@@ -7,3 +7,4 @@
 - [Influence Without Authority](https://www.amazon.com/Influence-Without-Authority-Allan-Cohen/dp/0471463302)
 - [Play Bigger: How Pirates, Dreamers, and Innovators Create and Dominate Markets](https://www.amazon.com/Play-Bigger-Dreamers-Innovators-Dominate/dp/0062407619/)
 - [How Not to Be Wrong: The Power of Mathematical Thinking](https://www.amazon.com/How-Not-Be-Wrong-Mathematical/dp/0143127535/)
+- [Crowded Orbits: Conflict and Cooperation in Space](https://www.amazon.com/Crowded-Orbits-Conflict-Cooperation-Space/dp/0231159129/)
