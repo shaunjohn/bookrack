@@ -9,3 +9,4 @@
 - [How Not to Be Wrong: The Power of Mathematical Thinking](https://www.amazon.com/How-Not-Be-Wrong-Mathematical/dp/0143127535/)
 - [Crowded Orbits: Conflict and Cooperation in Space](https://www.amazon.com/Crowded-Orbits-Conflict-Cooperation-Space/dp/0231159129/)
 - [Science Lessons: What the Business of Biotech Taught Me About Management](https://www.amazon.com/Science-Lessons-Business-Biotech-Management/dp/1591398614/)
+- [New Thinking: From Einstein to Artificial Intelligence, the Science and Technology that Transformed Our World](https://www.amazon.com/Cold-Fusion-Presents-Intelligence-Transformed/dp/1633537501)
