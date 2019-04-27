@@ -12,3 +12,5 @@
 - [New Thinking: From Einstein to Artificial Intelligence, the Science and Technology that Transformed Our World](https://www.amazon.com/Cold-Fusion-Presents-Intelligence-Transformed/dp/1633537501)
 - [The Elephant in the Brain: Hidden Motives in Everyday Life](https://www.amazon.com/Elephant-Brain-Hidden-Motives-Everyday-ebook/dp/B077GZT9Q1/)
 - [Stubborn Attachments: A Vision for a Society of Free, Prosperous, and Responsible Individuals](https://www.amazon.com/Stubborn-Attachments-Prosperous-Responsible-Individuals-ebook/dp/B07G9DFC8W/)
+- [What Technology Wants](https://www.amazon.com/What-Technology-Wants-Kevin-Kelly/dp/0143120174)
+
