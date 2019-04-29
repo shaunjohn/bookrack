@@ -14,3 +14,4 @@
 - [Stubborn Attachments: A Vision for a Society of Free, Prosperous, and Responsible Individuals](https://www.amazon.com/Stubborn-Attachments-Prosperous-Responsible-Individuals-ebook/dp/B07G9DFC8W/)
 - [What Technology Wants](https://www.amazon.com/What-Technology-Wants-Kevin-Kelly/dp/0143120174)
 - [The Emperor of All Maladies: A Biography of Cancer](https://www.amazon.com/Emperor-All-Maladies-Biography-Cancer/dp/1439170916/)
+- [Biomimicry: Innovation Inspired by Nature](https://www.amazon.com/Biomimicry-Innovation-Inspired-Janine-Benyus-ebook/dp/B002JB3E8I/)
