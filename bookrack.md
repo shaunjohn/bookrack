@@ -16,3 +16,5 @@
 - [The Emperor of All Maladies: A Biography of Cancer](https://www.amazon.com/Emperor-All-Maladies-Biography-Cancer/dp/1439170916/)
 - [Biomimicry: Innovation Inspired by Nature](https://www.amazon.com/Biomimicry-Innovation-Inspired-Janine-Benyus-ebook/dp/B002JB3E8I/)
 - [The Right Story: A brief guide to changing the world](https://www.amazon.com/Right-Story-brief-guide-changing-ebook/dp/B07L7X5J7C/)
+- [The Alternative Answer: The Nontraditional Investments That Drive the World's Best Performing Portfolios](https://www.amazon.com/Alternative-Answer-Nontraditional-Investments-Performing-ebook/dp/B009NF6W78/)
+
