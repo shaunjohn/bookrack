@@ -19,4 +19,4 @@
 - [The Alternative Answer: The Nontraditional Investments That Drive the World's Best Performing Portfolios](https://www.amazon.com/Alternative-Answer-Nontraditional-Investments-Performing-ebook/dp/B009NF6W78/)
 - [Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089/)
 - [The Job: Work and Its Future in a Time of Radical Change](https://www.amazon.com/Job-Work-Future-Radical-Change/dp/0451497252)
-
+- [Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading](https://www.amazon.com/Inside-Black-Box-Quantitative-Frequency/dp/1118362411/)
