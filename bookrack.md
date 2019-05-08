@@ -20,3 +20,4 @@
 - [Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089/)
 - [The Job: Work and Its Future in a Time of Radical Change](https://www.amazon.com/Job-Work-Future-Radical-Change/dp/0451497252)
 - [Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading](https://www.amazon.com/Inside-Black-Box-Quantitative-Frequency/dp/1118362411/)
+- [Gigged: The End of the Job and the Future of Work](https://www.amazon.com/Gigged-End-Job-Future-Work/dp/1250097894/)
