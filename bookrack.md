@@ -23,3 +23,4 @@
 - [Gigged: The End of the Job and the Future of Work](https://www.amazon.com/Gigged-End-Job-Future-Work/dp/1250097894/)
 - [Uberland: How Algorithms Are Rewriting the Rules of Work](https://www.amazon.com/Uberland-Algorithms-Rewriting-Rules-Work/dp/0520298578)
 - [The Globotics Upheaval: Globalization, Robotics, and the Future of Work](https://www.amazon.com/Globotics-Upheaval-Globalization-Robotics-Future/dp/0190901764)
+- [The Aging Brain: Proven Steps to Prevent Dementia and Sharpen Your Mind](https://www.amazon.com/Aging-Brain-Prevent-Dementia-Sharpen-ebook/dp/B07932FYY5/)
