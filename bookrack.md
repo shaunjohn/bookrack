@@ -24,3 +24,4 @@
 - [Uberland: How Algorithms Are Rewriting the Rules of Work](https://www.amazon.com/Uberland-Algorithms-Rewriting-Rules-Work/dp/0520298578)
 - [The Globotics Upheaval: Globalization, Robotics, and the Future of Work](https://www.amazon.com/Globotics-Upheaval-Globalization-Robotics-Future/dp/0190901764)
 - [The Aging Brain: Proven Steps to Prevent Dementia and Sharpen Your Mind](https://www.amazon.com/Aging-Brain-Prevent-Dementia-Sharpen-ebook/dp/B07932FYY5/)
+- [The Power of Your Subconscious Mind](https://www.amazon.com/Power-Your-Subconscious-Mind-ebook/dp/B07PJVJCQD)
