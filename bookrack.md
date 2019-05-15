@@ -25,3 +25,4 @@
 - [The Globotics Upheaval: Globalization, Robotics, and the Future of Work](https://www.amazon.com/Globotics-Upheaval-Globalization-Robotics-Future/dp/0190901764)
 - [The Aging Brain: Proven Steps to Prevent Dementia and Sharpen Your Mind](https://www.amazon.com/Aging-Brain-Prevent-Dementia-Sharpen-ebook/dp/B07932FYY5/)
 - [The Power of Your Subconscious Mind](https://www.amazon.com/Power-Your-Subconscious-Mind-ebook/dp/B07PJVJCQD)
+- [Ruined by Design: How Designers Destroyed the World, and What We Can Do to Fix It](https://www.amazon.com/Ruined-Design-Designers-Destroyed-World-ebook/dp/B07PS16XY9)
