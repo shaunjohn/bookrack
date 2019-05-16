@@ -26,3 +26,4 @@
 - [The Aging Brain: Proven Steps to Prevent Dementia and Sharpen Your Mind](https://www.amazon.com/Aging-Brain-Prevent-Dementia-Sharpen-ebook/dp/B07932FYY5/)
 - [The Power of Your Subconscious Mind](https://www.amazon.com/Power-Your-Subconscious-Mind-ebook/dp/B07PJVJCQD)
 - [Ruined by Design: How Designers Destroyed the World, and What We Can Do to Fix It](https://www.amazon.com/Ruined-Design-Designers-Destroyed-World-ebook/dp/B07PS16XY9)
+- [The Baby Owner's Manual: Operating Instructions, Trouble-Shooting Tips, and Advice on First-Year Maintenance](https://www.amazon.com/Baby-Owners-Manual-Instructions-Trouble-Shooting-ebook/dp/B009U9S6D0)
