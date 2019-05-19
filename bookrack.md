@@ -28,3 +28,4 @@
 - [Ruined by Design: How Designers Destroyed the World, and What We Can Do to Fix It](https://www.amazon.com/Ruined-Design-Designers-Destroyed-World-ebook/dp/B07PS16XY9)
 - [The Baby Owner's Manual: Operating Instructions, Trouble-Shooting Tips, and Advice on First-Year Maintenance](https://www.amazon.com/Baby-Owners-Manual-Instructions-Trouble-Shooting-ebook/dp/B009U9S6D0)
 - [Improv Wisdom: Don't Prepare, Just Show Up](https://www.amazon.com/Improv-Wisdom-Dont-Prepare-Just-ebook/dp/B003CIQ4XY/)
+- [Blockchain: The Next Everything](https://www.amazon.com/Blockchain-Everything-Stephen-P-Williams-ebook/dp/B07H7VFB7J/)
