@@ -29,3 +29,5 @@
 - [The Baby Owner's Manual: Operating Instructions, Trouble-Shooting Tips, and Advice on First-Year Maintenance](https://www.amazon.com/Baby-Owners-Manual-Instructions-Trouble-Shooting-ebook/dp/B009U9S6D0)
 - [Improv Wisdom: Don't Prepare, Just Show Up](https://www.amazon.com/Improv-Wisdom-Dont-Prepare-Just-ebook/dp/B003CIQ4XY/)
 - [Blockchain: The Next Everything](https://www.amazon.com/Blockchain-Everything-Stephen-P-Williams-ebook/dp/B07H7VFB7J/)
+- [The Molecule of More: How a Single Chemical in Your Brain Drives Love, Sex, and Creativity—and Will Determine the Fate of the Human Race](https://www.amazon.com/Molecule-More-Chemical-Creativity-Determine-ebook/dp/B077ZCGT8N/)
+
