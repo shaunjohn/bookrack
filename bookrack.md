@@ -34,3 +34,4 @@
 - [The Business of Media Distribution: Monetizing Film, TV and Video Content in an Online World](https://www.amazon.com/Business-Media-Distribution-Monetizing-American-ebook/dp/B00FYR3C2C/)
 - [When: The Scientific Secrets of Perfect Timing](https://www.amazon.com/When-Scientific-Secrets-Perfect-Timing/dp/0735210632)
 - [The Gene: An Intimate History](https://www.amazon.com/Gene-Intimate-History-Siddhartha-Mukherjee/dp/1476733503)
+- [Range: Why Generalists Triumph in a Specialized World](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World-ebook/dp/B07H1ZYWTM)
