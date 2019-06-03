@@ -35,3 +35,4 @@
 - [When: The Scientific Secrets of Perfect Timing](https://www.amazon.com/When-Scientific-Secrets-Perfect-Timing/dp/0735210632)
 - [The Gene: An Intimate History](https://www.amazon.com/Gene-Intimate-History-Siddhartha-Mukherjee/dp/1476733503)
 - [Range: Why Generalists Triumph in a Specialized World](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World-ebook/dp/B07H1ZYWTM)
+- [The Science of Rapid Skill Acquisition: Advanced Methods to Learn, Remember, and Master New Skills and Information](https://www.amazon.com/Science-Rapid-Skill-Acquisition-Information-ebook/dp/B07NS6QNSR)
