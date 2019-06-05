@@ -37,4 +37,4 @@
 - [Range: Why Generalists Triumph in a Specialized World](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World-ebook/dp/B07H1ZYWTM)
 - [The Science of Rapid Skill Acquisition: Advanced Methods to Learn, Remember, and Master New Skills and Information](https://www.amazon.com/Science-Rapid-Skill-Acquisition-Information-ebook/dp/B07NS6QNSR)
 - [Secrets of Sand Hill Road: Venture Capital and How to Get It](https://www.amazon.com/Secrets-Sand-Hill-Road-Venture/dp/059308358X)
-
+- [What You Do Is Who You Are: How to Create Your Business Culture](https://www.amazon.com/What-You-Do-Who-Are/dp/0062871331/)
