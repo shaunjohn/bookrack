@@ -39,3 +39,4 @@
 - [Secrets of Sand Hill Road: Venture Capital and How to Get It](https://www.amazon.com/Secrets-Sand-Hill-Road-Venture/dp/059308358X)
 - [What You Do Is Who You Are: How to Create Your Business Culture](https://www.amazon.com/What-You-Do-Who-Are/dp/0062871331/)
 - [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186/)
+- [Messengers: Who We Listen To, Who We Don't, and Why](https://www.amazon.com/Messengers-Who-Listen-Dont-Why-ebook/dp/B07MLRC69J/)
