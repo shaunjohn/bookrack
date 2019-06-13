@@ -40,3 +40,4 @@
 - [What You Do Is Who You Are: How to Create Your Business Culture](https://www.amazon.com/What-You-Do-Who-Are/dp/0062871331/)
 - [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186/)
 - [Messengers: Who We Listen To, Who We Don't, and Why](https://www.amazon.com/Messengers-Who-Listen-Dont-Why-ebook/dp/B07MLRC69J/)
+- [Super Thinking: The Big Book of Mental Models](https://www.amazon.com/Super-Thinking-Book-Mental-Models-ebook/dp/B07P8J83WR/)
