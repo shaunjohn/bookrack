@@ -43,3 +43,4 @@
 - [Super Thinking: The Big Book of Mental Models](https://www.amazon.com/Super-Thinking-Book-Mental-Models-ebook/dp/B07P8J83WR/)
 - [Mental Models: 30 Thinking Tools that Separate the Average From the Exceptional](https://www.amazon.com/Mental-Models-Exceptional-Decision-Making-Problem-Solving-ebook/dp/B07QSHPWS1)
 - [Worldmaking after Empire: The Rise and Fall of Self-Determination](https://www.amazon.com/Worldmaking-after-Empire-Rise-Self-Determination-ebook/dp/B07FY26WWR/)
+- [The Basics of Hacking and Penetration Testing: Ethical Hacking and Penetration Testing Made Easy](https://www.amazon.com/Basics-Hacking-Penetration-Testing-Ethical-ebook/dp/B00DSNSQAC/)
