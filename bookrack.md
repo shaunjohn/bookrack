@@ -45,3 +45,4 @@
 - [Worldmaking after Empire: The Rise and Fall of Self-Determination](https://www.amazon.com/Worldmaking-after-Empire-Rise-Self-Determination-ebook/dp/B07FY26WWR/)
 - [The Basics of Hacking and Penetration Testing: Ethical Hacking and Penetration Testing Made Easy](https://www.amazon.com/Basics-Hacking-Penetration-Testing-Ethical-ebook/dp/B00DSNSQAC/)
 - [The New Market Wizards: Conversations with America's Top Traders](https://www.amazon.com/gp/product/B01A64ELMM/)
+- [Riding Shotgun: The Role of the COO](https://www.amazon.com/Riding-Shotgun-Role-COO-Updated-ebook/dp/B01NAIQV62/)
