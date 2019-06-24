@@ -47,3 +47,4 @@
 - [The New Market Wizards: Conversations with America's Top Traders](https://www.amazon.com/gp/product/B01A64ELMM/)
 - [Riding Shotgun: The Role of the COO](https://www.amazon.com/Riding-Shotgun-Role-COO-Updated-ebook/dp/B01NAIQV62/)
 - [The Four Agreements: A Practical Guide to Personal Freedom](https://www.amazon.com/Four-Agreements-Practical-Personal-Freedom-ebook/dp/B005BRS8Z6)
+- [Buy Then Build: How Acquisition Entrepreneurs Outsmart the Startup Game](https://www.amazon.com/Buy-Then-Build-Acquisition-Entrepreneurs/dp/1544501137/)
