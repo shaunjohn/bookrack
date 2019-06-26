@@ -49,3 +49,4 @@
 - [The Four Agreements: A Practical Guide to Personal Freedom](https://www.amazon.com/Four-Agreements-Practical-Personal-Freedom-ebook/dp/B005BRS8Z6)
 - [Buy Then Build: How Acquisition Entrepreneurs Outsmart the Startup Game](https://www.amazon.com/Buy-Then-Build-Acquisition-Entrepreneurs/dp/1544501137/)
 - [FLEX!: a flexible approach to work, life and everything](https://www.amazon.com/FLEX-flexible-approach-work-everything/dp/0008315035/)
+- [Elegant Defense: The Extraordinary New Science of the Immune System](https://www.amazon.com/Elegant-Defense-Extraordinary-Science-Immune/dp/0062698532/)
