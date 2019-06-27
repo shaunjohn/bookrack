@@ -50,3 +50,4 @@
 - [Buy Then Build: How Acquisition Entrepreneurs Outsmart the Startup Game](https://www.amazon.com/Buy-Then-Build-Acquisition-Entrepreneurs/dp/1544501137/)
 - [FLEX!: a flexible approach to work, life and everything](https://www.amazon.com/FLEX-flexible-approach-work-everything/dp/0008315035/)
 - [Elegant Defense: The Extraordinary New Science of the Immune System](https://www.amazon.com/Elegant-Defense-Extraordinary-Science-Immune/dp/0062698532/)
+- [The Dream Machine](https://www.amazon.com/Dream-Machine-M-Mitchell-Waldrop/dp/1732265119/)
