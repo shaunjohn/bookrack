@@ -51,3 +51,4 @@
 - [FLEX!: a flexible approach to work, life and everything](https://www.amazon.com/FLEX-flexible-approach-work-everything/dp/0008315035/)
 - [Elegant Defense: The Extraordinary New Science of the Immune System](https://www.amazon.com/Elegant-Defense-Extraordinary-Science-Immune/dp/0062698532/)
 - [The Dream Machine](https://www.amazon.com/Dream-Machine-M-Mitchell-Waldrop/dp/1732265119/)
+- [Stubborn Attachments: A Vision for a Society of Free, Prosperous, and Responsible Individuals](https://www.amazon.com/Stubborn-Attachments-Prosperous-Responsible-Individuals/dp/1732265135/)
